@@ -1,0 +1,8 @@
+SAD     54
+JAK     140
+ALI     460
+ABU     623
+POP     950
+GST     6000
+PEG     6000
+WIT     52
